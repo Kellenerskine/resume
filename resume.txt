@@ -1,0 +1,60 @@
+Kellen Erskine
+529 Shadow Pkwy, Chattanooga, 37421, TN (US)
+kellenae129@gmail.com
+423-260-3198
+
+ 
+Professional Summary
+
+I enjoy playing around with and customizing different Linux distributions.
+I spent some time in Taiwan learning Mandarin and enjoy learning more about Chinese and Taiwanese culture.
+I am good at communicating both in person and through writing.
+
+ 
+	Skills:
+C++
+Python
+Java
+HTML & CSS
+CPR certified
+ 
+	Education:
+Southern Adventist University, Collegedale, Tennesse
+Bachelor of Arts, History, Present
+
+Southern Adventist University, Collegedale, Tennessee
+Bachelor of Science, Computer Science, Present
+ 
+
+	Languages:
+English, Mandarin
+ 
+
+ 	Projects:
+  Multiplayer Mancala Game:
+
+For this project I used Python sockets and Pygame to create a two player Mancala game with a sever hosted on a Rasperry pi 4.
+https://github.com/Kellenerskine/python/tree/main/Mancala
+
+
+
+  Valorant Statistic Web Scraper:
+
+I used Beautiful Soup 4 and Selenium requests to scrape data from a statistics website and use that data to generate easy to read statistics.
+https://github.com/Kellenerskine/python/blob/main/val/stat_scraper.py
+ 
+
+
+Experience:
+
+  Deli worker, Walmart. Fort Oglethorpe, Georgia
+Apr. 2022 - Present
+
+•	Meet customer needs in preparing their orders
+•	Order and purchase equipment and supplies.
+
+  Lifeguard, Mountain Shadows Association. Chattanooga, Tennessee
+June. 2020 - Sep. 2023
+
+•	Responsible for maintaining the safety of swimmers by regulating the chemical levels in the pool water.
+•	Responsible for maintaining the cleanliness of the pool area.
